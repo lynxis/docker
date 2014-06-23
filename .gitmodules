@@ -1,0 +1,3 @@
+[submodule "owncloud6"]
+	path = owncloud6
+	url = git@github.com:lynxis/docker-nginx-owncloud6-supervisord.git
